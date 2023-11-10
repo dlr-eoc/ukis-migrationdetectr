@@ -1,9 +1,11 @@
-[![UKIS](man/figures/ukis-logo.png)](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5413/10560_read-21914/) UKIS - MigrationDetectR 
+[![UKIS](man/figures/ukis-logo.png)](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5413/10560_read-21914/)
+UKIS - MigrationDetectR 
 ==============
+
  <img src="man/figures/logo.png" align="right" height="70" />
 <!-- badges: start -->
-[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
-[![CRAN status](https://www.r-pkg.org/badges/version/MigrationDetectR)](https://CRAN.R-project.org/package=MigrationDetectR)
+<!-- [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental) -->
+<!-- [![CRAN status](https://www.r-pkg.org/badges/version/MigrationDetectR)](https://CRAN.R-project.org/package=MigrationDetectR) -->
 <!-- badges: end -->
 
 Implementation of Migration detection algorithm, published by Chi et al. (2020) in [A general approach to detecting migration events in digital trace data](https://doi.org/10.1371/journal.pone.0239408)
