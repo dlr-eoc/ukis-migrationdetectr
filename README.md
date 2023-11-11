@@ -4,7 +4,7 @@ UKIS - MigrationDetectR
 
  <img src="man/figures/logo.png" align="right" height="70" />
 <!-- badges: start -->
-[![Lifecycle: stable](https://lifecycle.r-lib.org/articles/figures/lifecycle-stable.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+<!--[![Lifecycle: stable](https://lifecycle.r-lib.org/articles/figures/lifecycle-stable.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable) -->
 <!--[![CRAN status](https://www.r-pkg.org/badges/version/MigrationDetectR)](https://CRAN.R-project.org/package=MigrationDetectR)-->
 <!-- badges: end -->
 
