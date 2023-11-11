@@ -1,11 +1,12 @@
-[![UKIS](man/figures/ukis-logo.png)](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5413/10560_read-21914/)
+[![UKIS](man/figures/ukis-logo.png)](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5413/10560_read-21914/) 
+
 UKIS - MigrationDetectR 
 ==============
 
  <img src="man/figures/logo.png" align="right" height="70" />
 <!-- badges: start -->
-<!-- [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental) -->
-<!-- [![CRAN status](https://www.r-pkg.org/badges/version/MigrationDetectR)](https://CRAN.R-project.org/package=MigrationDetectR) -->
+[![Lifecycle: stable](https://lifecycle.r-lib.org/articles/figures/lifecycle-stable.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+<!--[![CRAN status](https://www.r-pkg.org/badges/version/MigrationDetectR)](https://CRAN.R-project.org/package=MigrationDetectR)-->
 <!-- badges: end -->
 
 Implementation of Migration detection algorithm, published by Chi et al. (2020) in [A general approach to detecting migration events in digital trace data](https://doi.org/10.1371/journal.pone.0239408)
@@ -94,12 +95,12 @@ The UKIS team creates and adapts libraries which simplify the usage of satellite
 German Aerospace Center (DLR)
 
 ## Licenses
-This software is licensed under the [Apache 2.0 License](https://github.com/dlr-eoc/ukis-migrationdetectr/blob/master/LICENSE.txt).
+This software is licensed under the [Apache 2.0 License](https://github.com/dlr-eoc/ukis-migrationdetectr/blob/main/LICENSE.txt).
 
 Copyright (c) 2023 German Aerospace Center (DLR) * German Remote Sensing Data Center * Department: Geo-Risks and Civil Security
 
 ## Changelog
-See [NEWS](https://github.com/dlr-eoc/ukis-migrationdetectr/blob/master/NEWS.md).
+See [NEWS](https://github.com/dlr-eoc/ukis-migrationdetectr/blob/main/NEWS.md).
 
 ## Contributing
 The UKIS team welcomes contributions from the community.

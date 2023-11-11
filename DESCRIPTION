@@ -18,4 +18,10 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.2
 Depends: 
     R (>= 3.5.0)
-Imports: assertthat, dplyr, lubridate, tibble, tidyr
+Imports: 
+    assertthat,
+    dplyr,
+    lifecycle,
+    lubridate,
+    tibble,
+    tidyr
