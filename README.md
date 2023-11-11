@@ -1,5 +1,4 @@
 [![UKIS](man/figures/ukis-logo.png)](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5413/10560_read-21914/) 
-
 UKIS - MigrationDetectR 
 ==============
 
